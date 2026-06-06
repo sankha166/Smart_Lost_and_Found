@@ -1,1 +1,2212 @@
-[]
+[
+  {
+    "notification_id": "ntf_e1faca1885f2",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Claim rejected",
+    "body": "Your claim for 'Phone' was rejected. Notes: no",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-14T19:18:51.685000"
+  },
+  {
+    "notification_id": "ntf_d3c3e9ec41f1",
+    "user_id": "adm_84407a7a3171",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:38.217000"
+  },
+  {
+    "notification_id": "ntf_0169c1dc3ac2",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:38.090000"
+  },
+  {
+    "notification_id": "ntf_6701fb6d3df9",
+    "user_id": "adm_be1db464be52",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:37.962000"
+  },
+  {
+    "notification_id": "ntf_e82d44495aad",
+    "user_id": "adm_37734e4cae44",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:37.834000"
+  },
+  {
+    "notification_id": "ntf_ef56f3293395",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:37.707000"
+  },
+  {
+    "notification_id": "ntf_244fdd40f012",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:37.579000"
+  },
+  {
+    "notification_id": "ntf_f3d56e7d2222",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:37.452000"
+  },
+  {
+    "notification_id": "ntf_0bad5e24772b",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_e97f1b13571f",
+    "read": false,
+    "created_at": "2026-05-14T19:18:37.324000"
+  },
+  {
+    "notification_id": "ntf_412e02409351",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Claim rejected",
+    "body": "Your claim for 'Phone' was rejected. Notes: not verified",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-14T19:06:37.999000"
+  },
+  {
+    "notification_id": "ntf_21746c31dbe0",
+    "user_id": "adm_84407a7a3171",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:11.079000"
+  },
+  {
+    "notification_id": "ntf_c6d5c50ae223",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:10.944000"
+  },
+  {
+    "notification_id": "ntf_40bafb7c9763",
+    "user_id": "adm_be1db464be52",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:10.807000"
+  },
+  {
+    "notification_id": "ntf_9975b7e37542",
+    "user_id": "adm_37734e4cae44",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:10.672000"
+  },
+  {
+    "notification_id": "ntf_9fd22c9d119a",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:10.534000"
+  },
+  {
+    "notification_id": "ntf_f28e4037b9c8",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:10.392000"
+  },
+  {
+    "notification_id": "ntf_e8ecfd3bc508",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:10.255000"
+  },
+  {
+    "notification_id": "ntf_b2531124c9c7",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Phone.",
+    "link": "/admin/claims/clm_2d4c098d19eb",
+    "read": false,
+    "created_at": "2026-05-14T19:05:10.118000"
+  },
+  {
+    "notification_id": "ntf_4ec99a98e4aa",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_292338a7cdd3",
+    "read": false,
+    "created_at": "2026-05-14T12:59:54.726000"
+  },
+  {
+    "notification_id": "ntf_c02129fa02fc",
+    "user_id": "adm_be1db464be52",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_292338a7cdd3",
+    "read": false,
+    "created_at": "2026-05-14T12:59:54.598000"
+  },
+  {
+    "notification_id": "ntf_80f86e1e078c",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_292338a7cdd3",
+    "read": false,
+    "created_at": "2026-05-14T12:59:54.471000"
+  },
+  {
+    "notification_id": "ntf_9af8a836c31e",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_292338a7cdd3",
+    "read": false,
+    "created_at": "2026-05-14T12:59:54.344000"
+  },
+  {
+    "notification_id": "ntf_507689ad540c",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_292338a7cdd3",
+    "read": false,
+    "created_at": "2026-05-14T12:59:54.216000"
+  },
+  {
+    "notification_id": "ntf_582e402c07a2",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_292338a7cdd3",
+    "read": false,
+    "created_at": "2026-05-14T12:59:54.088000"
+  },
+  {
+    "notification_id": "ntf_ed611f70de56",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_292338a7cdd3",
+    "read": false,
+    "created_at": "2026-05-14T12:59:53.887000"
+  },
+  {
+    "notification_id": "ntf_09e3032bbb68",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Claim rejected",
+    "body": "Your claim for 'Lab Copy' was rejected. Notes: not sufficient proof",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-14T12:56:17.557000"
+  },
+  {
+    "notification_id": "ntf_80d03ba98205",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Lab Copy.",
+    "link": "/admin/claims/clm_ef7299b1f1b1",
+    "read": false,
+    "created_at": "2026-05-14T12:54:57.377000"
+  },
+  {
+    "notification_id": "ntf_592b78268a56",
+    "user_id": "adm_be1db464be52",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Lab Copy.",
+    "link": "/admin/claims/clm_ef7299b1f1b1",
+    "read": false,
+    "created_at": "2026-05-14T12:54:57.248000"
+  },
+  {
+    "notification_id": "ntf_08cbf092eec0",
+    "user_id": "adm_37734e4cae44",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Lab Copy.",
+    "link": "/admin/claims/clm_ef7299b1f1b1",
+    "read": false,
+    "created_at": "2026-05-14T12:54:57.114000"
+  },
+  {
+    "notification_id": "ntf_6fe17ee354a6",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Lab Copy.",
+    "link": "/admin/claims/clm_ef7299b1f1b1",
+    "read": false,
+    "created_at": "2026-05-14T12:54:56.986000"
+  },
+  {
+    "notification_id": "ntf_847622545448",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Lab Copy.",
+    "link": "/admin/claims/clm_ef7299b1f1b1",
+    "read": false,
+    "created_at": "2026-05-14T12:54:56.858000"
+  },
+  {
+    "notification_id": "ntf_c7d077afc858",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Lab Copy.",
+    "link": "/admin/claims/clm_ef7299b1f1b1",
+    "read": false,
+    "created_at": "2026-05-14T12:54:56.731000"
+  },
+  {
+    "notification_id": "ntf_7e3eefaf701d",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Lab Copy.",
+    "link": "/admin/claims/clm_ef7299b1f1b1",
+    "read": false,
+    "created_at": "2026-05-14T12:54:56.600000"
+  },
+  {
+    "notification_id": "ntf_5a2cbe34e5b0",
+    "user_id": "stu_fe95d266974a",
+    "type": "system",
+    "title": "Welcome to FindIt!",
+    "body": "Complete your profile so admins can attribute finds to you.",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-14T06:52:00.105000"
+  },
+  {
+    "notification_id": "ntf_8370f8eed3bf",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_10c9f8c43a0d",
+    "read": false,
+    "created_at": "2026-05-13T17:36:28.533000"
+  },
+  {
+    "notification_id": "ntf_32b39797210a",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_10c9f8c43a0d",
+    "read": false,
+    "created_at": "2026-05-13T17:36:28.400000"
+  },
+  {
+    "notification_id": "ntf_1b0327a3c4b0",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_10c9f8c43a0d",
+    "read": false,
+    "created_at": "2026-05-13T17:36:28.269000"
+  },
+  {
+    "notification_id": "ntf_5cdace9da5b8",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_10c9f8c43a0d",
+    "read": false,
+    "created_at": "2026-05-13T17:36:28.138000"
+  },
+  {
+    "notification_id": "ntf_05e1fa30a258",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Notebook.",
+    "link": "/admin/lost/lst_10c9f8c43a0d",
+    "read": false,
+    "created_at": "2026-05-13T17:36:28.006000"
+  },
+  {
+    "notification_id": "ntf_7a7bcf77601d",
+    "user_id": "stu_5a1cd266e3d8",
+    "type": "reward",
+    "title": "You earned points!",
+    "body": "You recovered 'Bluetooth Airpods '! +30 pts",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-13T16:27:19.470000"
+  },
+  {
+    "notification_id": "ntf_f6b263fbea3b",
+    "user_id": "stu_5a1cd266e3d8",
+    "type": "claim_update",
+    "title": "Item collected \u2014 claim closed",
+    "body": "'Bluetooth Airpods ' was collected. Thanks for using FindIt!",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-13T16:27:18.097000"
+  },
+  {
+    "notification_id": "ntf_59fba8b1fbc9",
+    "user_id": "stu_5a1cd266e3d8",
+    "type": "claim_update",
+    "title": "Claim approved",
+    "body": "Your proof was accepted. The centre will prepare 'Bluetooth Airpods ' for pickup.",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-13T16:23:57.833000"
+  },
+  {
+    "notification_id": "ntf_c76f8acc6abe",
+    "user_id": "stu_5a1cd266e3d8",
+    "type": "claim_update",
+    "title": "More proof needed",
+    "body": "Admin requested more proof for your claim. add some document",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-13T16:18:50.151000"
+  },
+  {
+    "notification_id": "ntf_db369874f0ce",
+    "user_id": "adm_37734e4cae44",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Satyam Gyani claimed: Bluetooth Airpods .",
+    "link": "/admin/claims/clm_8d85358253e9",
+    "read": false,
+    "created_at": "2026-05-13T16:08:44.649000"
+  },
+  {
+    "notification_id": "ntf_442cc39676cf",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Satyam Gyani claimed: Bluetooth Airpods .",
+    "link": "/admin/claims/clm_8d85358253e9",
+    "read": false,
+    "created_at": "2026-05-13T16:08:44.517000"
+  },
+  {
+    "notification_id": "ntf_68d1c2f334fa",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Satyam Gyani claimed: Bluetooth Airpods .",
+    "link": "/admin/claims/clm_8d85358253e9",
+    "read": false,
+    "created_at": "2026-05-13T16:08:44.384000"
+  },
+  {
+    "notification_id": "ntf_dbaed6173012",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Satyam Gyani claimed: Bluetooth Airpods .",
+    "link": "/admin/claims/clm_8d85358253e9",
+    "read": false,
+    "created_at": "2026-05-13T16:08:44.251000"
+  },
+  {
+    "notification_id": "ntf_a6f936a3bc43",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Satyam Gyani claimed: Bluetooth Airpods .",
+    "link": "/admin/claims/clm_8d85358253e9",
+    "read": false,
+    "created_at": "2026-05-13T16:08:44.116000"
+  },
+  {
+    "notification_id": "ntf_2efbf71ef5e4",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Satyam Gyani reported a lost Other: Notebook .",
+    "link": "/admin/lost/lst_29050d11d4de",
+    "read": false,
+    "created_at": "2026-05-13T16:06:47.225000"
+  },
+  {
+    "notification_id": "ntf_5de098814841",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Satyam Gyani reported a lost Other: Notebook .",
+    "link": "/admin/lost/lst_29050d11d4de",
+    "read": false,
+    "created_at": "2026-05-13T16:06:47.093000"
+  },
+  {
+    "notification_id": "ntf_048d772f384a",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Satyam Gyani reported a lost Other: Notebook .",
+    "link": "/admin/lost/lst_29050d11d4de",
+    "read": false,
+    "created_at": "2026-05-13T16:06:46.963000"
+  },
+  {
+    "notification_id": "ntf_f12cc9cdeae1",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Satyam Gyani reported a lost Other: Notebook .",
+    "link": "/admin/lost/lst_29050d11d4de",
+    "read": false,
+    "created_at": "2026-05-13T16:06:46.833000"
+  },
+  {
+    "notification_id": "ntf_16b320eeb047",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Satyam Gyani reported a lost Other: Notebook .",
+    "link": "/admin/lost/lst_29050d11d4de",
+    "read": false,
+    "created_at": "2026-05-13T16:06:46.701000"
+  },
+  {
+    "notification_id": "ntf_ada08a82154b",
+    "user_id": "stu_5a1cd266e3d8",
+    "type": "system",
+    "title": "Welcome to FindIt!",
+    "body": "Complete your profile so admins can attribute finds to you.",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-13T16:05:14.945000"
+  },
+  {
+    "notification_id": "ntf_4333f8e1a75b",
+    "user_id": "stu_35e2fba17383",
+    "type": "system",
+    "title": "Welcome to FindIt!",
+    "body": "Complete your profile so admins can attribute finds to you.",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-13T14:20:17.019000"
+  },
+  {
+    "notification_id": "ntf_1b65fbba570f",
+    "user_id": "stu_4b544bd98f5d",
+    "type": "system",
+    "title": "Welcome to FindIt!",
+    "body": "Complete your profile so admins can attribute finds to you.",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-13T13:29:59.902000"
+  },
+  {
+    "notification_id": "ntf_9eaead3c577b",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Phone: PHONE.",
+    "link": "/admin/lost/lst_3aaa8d2e6ba7",
+    "read": false,
+    "created_at": "2026-05-13T13:02:39.024000"
+  },
+  {
+    "notification_id": "ntf_ae32acf29fb5",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Phone: PHONE.",
+    "link": "/admin/lost/lst_3aaa8d2e6ba7",
+    "read": false,
+    "created_at": "2026-05-13T13:02:38.893000"
+  },
+  {
+    "notification_id": "ntf_a010734098f3",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Phone: PHONE.",
+    "link": "/admin/lost/lst_3aaa8d2e6ba7",
+    "read": false,
+    "created_at": "2026-05-13T13:02:38.760000"
+  },
+  {
+    "notification_id": "ntf_c74bd00c4cb1",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Phone: PHONE.",
+    "link": "/admin/lost/lst_3aaa8d2e6ba7",
+    "read": false,
+    "created_at": "2026-05-13T13:02:38.628000"
+  },
+  {
+    "notification_id": "ntf_7499a3d6d5bb",
+    "user_id": "stu_9498ec39f753",
+    "type": "reward",
+    "title": "You earned points!",
+    "body": "You recovered 'wallet'! +30 pts",
+    "link": null,
+    "read": true,
+    "created_at": "2026-05-13T13:00:19.289000"
+  },
+  {
+    "notification_id": "ntf_cfe73f051b73",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Item collected \u2014 claim closed",
+    "body": "'wallet' was collected. Thanks for using FindIt!",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-13T13:00:18.693000"
+  },
+  {
+    "notification_id": "ntf_91ff92e99440",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Claim approved",
+    "body": "Your proof was accepted. The centre will prepare 'wallet' for pickup.",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-13T13:00:10.379000"
+  },
+  {
+    "notification_id": "ntf_b031280e9587",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: wallet.",
+    "link": "/admin/claims/clm_700dc7119165",
+    "read": false,
+    "created_at": "2026-05-13T12:59:46.123000"
+  },
+  {
+    "notification_id": "ntf_43e2780cb24f",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: wallet.",
+    "link": "/admin/claims/clm_700dc7119165",
+    "read": false,
+    "created_at": "2026-05-13T12:59:45.992000"
+  },
+  {
+    "notification_id": "ntf_c1056c8cafb3",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: wallet.",
+    "link": "/admin/claims/clm_700dc7119165",
+    "read": false,
+    "created_at": "2026-05-13T12:59:45.862000"
+  },
+  {
+    "notification_id": "ntf_b2f962e713b1",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: wallet.",
+    "link": "/admin/claims/clm_700dc7119165",
+    "read": false,
+    "created_at": "2026-05-13T12:59:45.732000"
+  },
+  {
+    "notification_id": "ntf_2a9cb4a75819",
+    "user_id": "stu_9498ec39f753",
+    "type": "reward",
+    "title": "You earned points!",
+    "body": "You recovered 'Microprocessor Lab Copy'! +30 pts",
+    "link": null,
+    "read": true,
+    "created_at": "2026-05-13T12:55:02.007000"
+  },
+  {
+    "notification_id": "ntf_7550f259f89f",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Item collected \u2014 claim closed",
+    "body": "'Microprocessor Lab Copy' was collected. Thanks for using FindIt!",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-13T12:55:01.476000"
+  },
+  {
+    "notification_id": "ntf_a27d106cc5e4",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Claim approved",
+    "body": "Your proof was accepted. The centre will prepare 'Microprocessor Lab Copy' for pickup.",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-13T12:52:39.051000"
+  },
+  {
+    "notification_id": "ntf_37bcdb0ffbb6",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Microprocessor Lab Copy.",
+    "link": "/admin/claims/clm_351a5ae40ff2",
+    "read": false,
+    "created_at": "2026-05-13T12:45:00.205000"
+  },
+  {
+    "notification_id": "ntf_3749e6697578",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Microprocessor Lab Copy.",
+    "link": "/admin/claims/clm_351a5ae40ff2",
+    "read": false,
+    "created_at": "2026-05-13T12:45:00.075000"
+  },
+  {
+    "notification_id": "ntf_bac08e34f2c7",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Microprocessor Lab Copy.",
+    "link": "/admin/claims/clm_351a5ae40ff2",
+    "read": false,
+    "created_at": "2026-05-13T12:44:59.943000"
+  },
+  {
+    "notification_id": "ntf_a622aa7df057",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Claim rejected",
+    "body": "Your claim for 'Smart Watch' was rejected. Notes: not sufficient proof",
+    "link": "/student/my-claims",
+    "read": true,
+    "created_at": "2026-05-12T17:09:50.562000"
+  },
+  {
+    "notification_id": "ntf_58b17fe3ddfb",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Smart Watch.",
+    "link": "/admin/claims/clm_2f9ca6795527",
+    "read": false,
+    "created_at": "2026-05-12T16:30:20.985000"
+  },
+  {
+    "notification_id": "ntf_b2c567237004",
+    "user_id": "stu_9498ec39f753",
+    "type": "system",
+    "title": "Welcome to FindIt!",
+    "body": "Complete your profile so admins can attribute finds to you.",
+    "link": null,
+    "read": true,
+    "created_at": "2026-05-12T12:37:03.808000"
+  },
+  {
+    "notification_id": "ntf_2f2f2bc98484",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Item collected \u2014 claim closed",
+    "body": "'Rubber' was collected. Thanks for using FindIt!",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-20T09:26:28.877123+00:00"
+  },
+  {
+    "notification_id": "ntf_e33756ea02df",
+    "user_id": "stu_9498ec39f753",
+    "type": "claim_update",
+    "title": "Claim approved",
+    "body": "Your proof was accepted. The centre will prepare 'Rubber' for pickup.",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-20T09:26:00.567028+00:00"
+  },
+  {
+    "notification_id": "ntf_492b04033285",
+    "user_id": "adm_ea27d637007f",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:29.015564+00:00"
+  },
+  {
+    "notification_id": "ntf_098c50bbc38c",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:28.810429+00:00"
+  },
+  {
+    "notification_id": "ntf_e6c419a3052f",
+    "user_id": "adm_a70b4a54b396",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:28.605220+00:00"
+  },
+  {
+    "notification_id": "ntf_ecedd4acb3ed",
+    "user_id": "adm_4327e5faf082",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:28.400131+00:00"
+  },
+  {
+    "notification_id": "ntf_a3435f142eca",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:28.194321+00:00"
+  },
+  {
+    "notification_id": "ntf_79ee86ccc28b",
+    "user_id": "adm_5410144954eb",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:27.987565+00:00"
+  },
+  {
+    "notification_id": "ntf_4af8216da7fa",
+    "user_id": "adm_27ed7a932e49",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:27.780998+00:00"
+  },
+  {
+    "notification_id": "ntf_1240c283297d",
+    "user_id": "adm_84407a7a3171",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:27.575804+00:00"
+  },
+  {
+    "notification_id": "ntf_5f2d9406e4e8",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:27.369892+00:00"
+  },
+  {
+    "notification_id": "ntf_1842eb0c801f",
+    "user_id": "adm_be1db464be52",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:27.161781+00:00"
+  },
+  {
+    "notification_id": "ntf_205bd5e23863",
+    "user_id": "adm_37734e4cae44",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:26.956254+00:00"
+  },
+  {
+    "notification_id": "ntf_3b063077423c",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:26.747394+00:00"
+  },
+  {
+    "notification_id": "ntf_5140530b8ace",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:26.541414+00:00"
+  },
+  {
+    "notification_id": "ntf_26484577ca4b",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:26.336221+00:00"
+  },
+  {
+    "notification_id": "ntf_6cf7979dd6ca",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Rubber.",
+    "link": "/admin/claims/clm_d33de980083b",
+    "read": false,
+    "created_at": "2026-05-20T09:25:26.129433+00:00"
+  },
+  {
+    "notification_id": "ntf_65d258567974",
+    "user_id": "stu_a1f2df4e1fef",
+    "type": "system",
+    "title": "Welcome to FindIt!",
+    "body": "Complete your profile so admins can attribute finds to you.",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-20T08:40:45.872815+00:00"
+  },
+  {
+    "notification_id": "ntf_a219874d7d67",
+    "user_id": "adm_ea27d637007f",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:02.480408+00:00"
+  },
+  {
+    "notification_id": "ntf_2230f210aa69",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:02.276454+00:00"
+  },
+  {
+    "notification_id": "ntf_d949654e8751",
+    "user_id": "adm_a70b4a54b396",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:02.077039+00:00"
+  },
+  {
+    "notification_id": "ntf_9132231117f8",
+    "user_id": "adm_4327e5faf082",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:01.877901+00:00"
+  },
+  {
+    "notification_id": "ntf_4c8bcfcda381",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:01.679273+00:00"
+  },
+  {
+    "notification_id": "ntf_8cda3f949f4a",
+    "user_id": "adm_5410144954eb",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:01.474230+00:00"
+  },
+  {
+    "notification_id": "ntf_feec830b3aee",
+    "user_id": "adm_27ed7a932e49",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:01.274628+00:00"
+  },
+  {
+    "notification_id": "ntf_f90778733225",
+    "user_id": "adm_84407a7a3171",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:01.074884+00:00"
+  },
+  {
+    "notification_id": "ntf_6783ee6cf8c9",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:00.874560+00:00"
+  },
+  {
+    "notification_id": "ntf_4edf4546c332",
+    "user_id": "adm_be1db464be52",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:00.675960+00:00"
+  },
+  {
+    "notification_id": "ntf_d8dfab1f35d7",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:00.477867+00:00"
+  },
+  {
+    "notification_id": "ntf_e9715f606bcc",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:00.279245+00:00"
+  },
+  {
+    "notification_id": "ntf_549ae4a6622f",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:44:00.070491+00:00"
+  },
+  {
+    "notification_id": "ntf_175e6a38bcc4",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:43:59.867679+00:00"
+  },
+  {
+    "notification_id": "ntf_34cf8643ed13",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_3ca7245779ff",
+    "read": false,
+    "created_at": "2026-05-20T07:43:59.667166+00:00"
+  },
+  {
+    "notification_id": "ntf_3a6d55194ff2",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID Card.",
+    "link": "/admin/lost/lst_34f9944f10ba",
+    "read": false,
+    "created_at": "2026-05-20T06:18:06.213222+00:00"
+  },
+  {
+    "notification_id": "ntf_7dfea501125a",
+    "user_id": "adm_ea27d637007f",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:24.352632+00:00"
+  },
+  {
+    "notification_id": "ntf_debca3f8ecca",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:24.153834+00:00"
+  },
+  {
+    "notification_id": "ntf_5615dc92edb3",
+    "user_id": "adm_a70b4a54b396",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:23.954249+00:00"
+  },
+  {
+    "notification_id": "ntf_d5ded3f7c5c7",
+    "user_id": "adm_4327e5faf082",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:23.747846+00:00"
+  },
+  {
+    "notification_id": "ntf_259f67d188c7",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:23.546706+00:00"
+  },
+  {
+    "notification_id": "ntf_2e81442f112c",
+    "user_id": "adm_5410144954eb",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:23.340990+00:00"
+  },
+  {
+    "notification_id": "ntf_8784c41cac22",
+    "user_id": "adm_27ed7a932e49",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:23.140481+00:00"
+  },
+  {
+    "notification_id": "ntf_f13d03a80611",
+    "user_id": "adm_84407a7a3171",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:22.940812+00:00"
+  },
+  {
+    "notification_id": "ntf_27ebf791be04",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:22.738274+00:00"
+  },
+  {
+    "notification_id": "ntf_0d4fd6020c7c",
+    "user_id": "adm_be1db464be52",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:22.538763+00:00"
+  },
+  {
+    "notification_id": "ntf_c065eccf4e03",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:22.337986+00:00"
+  },
+  {
+    "notification_id": "ntf_77e2a7428759",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:22.139594+00:00"
+  },
+  {
+    "notification_id": "ntf_65013557bf29",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:21.940367+00:00"
+  },
+  {
+    "notification_id": "ntf_6d92b2d5bed0",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:21.741922+00:00"
+  },
+  {
+    "notification_id": "ntf_ff006ac6ef89",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost ID Card: ID CARD.",
+    "link": "/admin/lost/lst_0b6be6fd9349",
+    "read": false,
+    "created_at": "2026-05-20T06:04:21.539355+00:00"
+  },
+  {
+    "notification_id": "ntf_db967ea33f5f",
+    "user_id": "adm_ea27d637007f",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:41.192291+00:00"
+  },
+  {
+    "notification_id": "ntf_e5590d43fae5",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:40.992423+00:00"
+  },
+  {
+    "notification_id": "ntf_388ac0a3cb8b",
+    "user_id": "adm_a70b4a54b396",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:40.792601+00:00"
+  },
+  {
+    "notification_id": "ntf_3afce2cb7d6b",
+    "user_id": "adm_4327e5faf082",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:40.592909+00:00"
+  },
+  {
+    "notification_id": "ntf_190b31e7a4b8",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:40.392700+00:00"
+  },
+  {
+    "notification_id": "ntf_2abd92667afc",
+    "user_id": "adm_5410144954eb",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:40.194089+00:00"
+  },
+  {
+    "notification_id": "ntf_7dee487b4a05",
+    "user_id": "adm_27ed7a932e49",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:39.994746+00:00"
+  },
+  {
+    "notification_id": "ntf_ee7a6f931036",
+    "user_id": "adm_84407a7a3171",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:39.786127+00:00"
+  },
+  {
+    "notification_id": "ntf_a77a55debeb3",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:39.586812+00:00"
+  },
+  {
+    "notification_id": "ntf_8b38728c4b2a",
+    "user_id": "adm_be1db464be52",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:39.387835+00:00"
+  },
+  {
+    "notification_id": "ntf_fa69fab89942",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:39.178576+00:00"
+  },
+  {
+    "notification_id": "ntf_8b05b0f24388",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:38.980034+00:00"
+  },
+  {
+    "notification_id": "ntf_7c42de3cc640",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:38.780843+00:00"
+  },
+  {
+    "notification_id": "ntf_050d7808276e",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:38.580971+00:00"
+  },
+  {
+    "notification_id": "ntf_f0a6871d72d5",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Brown man .",
+    "link": "/admin/lost/lst_3a79bf0fe008",
+    "read": false,
+    "created_at": "2026-05-20T04:08:38.381016+00:00"
+  },
+  {
+    "notification_id": "ntf_4628ef6879cf",
+    "user_id": "stu_9498ec39f753",
+    "type": "match",
+    "title": "Potential match found!",
+    "body": "A found item 'Smart Watch' may be your lost Watch (90% match).",
+    "link": "/items/fnd_0a59193c56c3",
+    "read": false,
+    "created_at": "2026-05-19T18:20:13.070000+00:00"
+  },
+  {
+    "notification_id": "ntf_beb49f8933bc",
+    "user_id": "stu_00d7d6b71394",
+    "type": "claim_update",
+    "title": "Item collected \u2014 claim closed",
+    "body": "'Smart Watch' was collected. Thanks for using FindIt!",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-19T18:15:31.096080+00:00"
+  },
+  {
+    "notification_id": "ntf_ca523d0f3b98",
+    "user_id": "stu_00d7d6b71394",
+    "type": "claim_update",
+    "title": "Claim approved",
+    "body": "Your proof was accepted. The centre will prepare 'Smart Watch' for pickup.",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-19T18:14:18.560849+00:00"
+  },
+  {
+    "notification_id": "ntf_20d61591330b",
+    "user_id": "adm_ea27d637007f",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:51.861346+00:00"
+  },
+  {
+    "notification_id": "ntf_d43fd07c00ec",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:51.666637+00:00"
+  },
+  {
+    "notification_id": "ntf_4a27713a1511",
+    "user_id": "adm_a70b4a54b396",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:51.472055+00:00"
+  },
+  {
+    "notification_id": "ntf_0f692a40af07",
+    "user_id": "adm_4327e5faf082",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:51.277103+00:00"
+  },
+  {
+    "notification_id": "ntf_94a011802d97",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:51.082031+00:00"
+  },
+  {
+    "notification_id": "ntf_35a2ff271080",
+    "user_id": "adm_5410144954eb",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:50.886532+00:00"
+  },
+  {
+    "notification_id": "ntf_091c1006ded5",
+    "user_id": "adm_27ed7a932e49",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:50.691052+00:00"
+  },
+  {
+    "notification_id": "ntf_e4bf684e17bf",
+    "user_id": "adm_84407a7a3171",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:50.497445+00:00"
+  },
+  {
+    "notification_id": "ntf_97f2ff624fa2",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:50.303497+00:00"
+  },
+  {
+    "notification_id": "ntf_b29e0eab71c2",
+    "user_id": "adm_be1db464be52",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:50.109553+00:00"
+  },
+  {
+    "notification_id": "ntf_783d77ce8d89",
+    "user_id": "adm_37734e4cae44",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:49.915796+00:00"
+  },
+  {
+    "notification_id": "ntf_eb62911f39e7",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:49.721305+00:00"
+  },
+  {
+    "notification_id": "ntf_30f4d2c1e73a",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:49.526889+00:00"
+  },
+  {
+    "notification_id": "ntf_86f36e028a21",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:49.333703+00:00"
+  },
+  {
+    "notification_id": "ntf_bcff20d30312",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Neel Mukhopadhyay claimed: Smart Watch.",
+    "link": "/admin/claims/clm_f5799c7882bb",
+    "read": false,
+    "created_at": "2026-05-19T18:09:49.139567+00:00"
+  },
+  {
+    "notification_id": "ntf_478c4f73a2ac",
+    "user_id": "stu_00d7d6b71394",
+    "type": "match",
+    "title": "Potential match found!",
+    "body": "Found item 'Smart Watch' may be your lost watch (90% match).",
+    "link": "/items/fnd_08d0402d76ed",
+    "read": false,
+    "created_at": "2026-05-19T18:06:41.514790+00:00"
+  },
+  {
+    "notification_id": "ntf_b04bda24504a",
+    "user_id": "adm_ea27d637007f",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:40.145441+00:00"
+  },
+  {
+    "notification_id": "ntf_8d8528d49d53",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:39.949853+00:00"
+  },
+  {
+    "notification_id": "ntf_3d8c027793f4",
+    "user_id": "adm_a70b4a54b396",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:39.758076+00:00"
+  },
+  {
+    "notification_id": "ntf_7d3c2ee60de2",
+    "user_id": "adm_4327e5faf082",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:39.556150+00:00"
+  },
+  {
+    "notification_id": "ntf_c01a47e588da",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:39.365521+00:00"
+  },
+  {
+    "notification_id": "ntf_98101559cbde",
+    "user_id": "adm_5410144954eb",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:39.174595+00:00"
+  },
+  {
+    "notification_id": "ntf_4fdb6b1c64d0",
+    "user_id": "adm_27ed7a932e49",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:38.983938+00:00"
+  },
+  {
+    "notification_id": "ntf_42db6cad28e9",
+    "user_id": "adm_84407a7a3171",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:38.789728+00:00"
+  },
+  {
+    "notification_id": "ntf_7b536ade6bec",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:38.598778+00:00"
+  },
+  {
+    "notification_id": "ntf_dad59d556ead",
+    "user_id": "adm_be1db464be52",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:38.408378+00:00"
+  },
+  {
+    "notification_id": "ntf_ab55cca502f6",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:38.217866+00:00"
+  },
+  {
+    "notification_id": "ntf_3d6a817c5943",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:38.026415+00:00"
+  },
+  {
+    "notification_id": "ntf_9f506b668c1a",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:37.823620+00:00"
+  },
+  {
+    "notification_id": "ntf_c186fac0b3f7",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:37.633484+00:00"
+  },
+  {
+    "notification_id": "ntf_213a12e4b085",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Neel Mukhopadhyay reported a lost Watch: watch.",
+    "link": "/admin/lost/lst_5f75770ab514",
+    "read": false,
+    "created_at": "2026-05-19T18:06:37.442701+00:00"
+  },
+  {
+    "notification_id": "ntf_9075795e0f6a",
+    "user_id": "stu_00d7d6b71394",
+    "type": "system",
+    "title": "Welcome to FindIt!",
+    "body": "Complete your profile so admins can attribute finds to you.",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-19T17:59:59.790909+00:00"
+  },
+  {
+    "notification_id": "ntf_1163ab509ca2",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:32.632072+00:00"
+  },
+  {
+    "notification_id": "ntf_d5ae89e90ec1",
+    "user_id": "adm_a70b4a54b396",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:32.436381+00:00"
+  },
+  {
+    "notification_id": "ntf_7751d1baa157",
+    "user_id": "adm_4327e5faf082",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:32.241680+00:00"
+  },
+  {
+    "notification_id": "ntf_0227a5168d35",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:32.047169+00:00"
+  },
+  {
+    "notification_id": "ntf_efa9bb7abdd8",
+    "user_id": "adm_5410144954eb",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:31.852704+00:00"
+  },
+  {
+    "notification_id": "ntf_5467cc6fc54c",
+    "user_id": "adm_27ed7a932e49",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:31.658221+00:00"
+  },
+  {
+    "notification_id": "ntf_412382fcdccc",
+    "user_id": "adm_84407a7a3171",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:31.461498+00:00"
+  },
+  {
+    "notification_id": "ntf_6fc582b18662",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:31.265974+00:00"
+  },
+  {
+    "notification_id": "ntf_a2ed5dcb9b62",
+    "user_id": "adm_be1db464be52",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:31.071366+00:00"
+  },
+  {
+    "notification_id": "ntf_a6485cabaa2f",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:30.877337+00:00"
+  },
+  {
+    "notification_id": "ntf_5280ffff4e03",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:30.682902+00:00"
+  },
+  {
+    "notification_id": "ntf_092f8f677d44",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:30.488441+00:00"
+  },
+  {
+    "notification_id": "ntf_1603c5d6d768",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:30.293928+00:00"
+  },
+  {
+    "notification_id": "ntf_e069bd80425d",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Watch: Watch.",
+    "link": "/admin/lost/lst_70f3732c2496",
+    "read": false,
+    "created_at": "2026-05-18T01:54:30.096809+00:00"
+  },
+  {
+    "notification_id": "ntf_1c78c89d7a93",
+    "user_id": "stu_4b544bd98f5d",
+    "type": "reward",
+    "title": "You earned points!",
+    "body": "You recovered 'Bottole'! +30 pts",
+    "link": null,
+    "read": false,
+    "created_at": "2026-05-17T14:01:32.247129+00:00"
+  },
+  {
+    "notification_id": "ntf_baa03fef32e5",
+    "user_id": "stu_4b544bd98f5d",
+    "type": "claim_update",
+    "title": "Item collected \u2014 claim closed",
+    "body": "'Bottole' was collected. Thanks for using FindIt!",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-17T14:01:30.664721+00:00"
+  },
+  {
+    "notification_id": "ntf_5d39e7345a48",
+    "user_id": "stu_4b544bd98f5d",
+    "type": "claim_update",
+    "title": "Claim approved",
+    "body": "Your proof was accepted. The centre will prepare 'Bottole' for pickup.",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-17T14:01:19.535038+00:00"
+  },
+  {
+    "notification_id": "ntf_3405b58dcb06",
+    "user_id": "stu_4b544bd98f5d",
+    "type": "claim_update",
+    "title": "More proof needed",
+    "body": "Admin requested more proof for your claim. give the proof of the identity",
+    "link": "/student/my-claims",
+    "read": false,
+    "created_at": "2026-05-17T13:58:05.311263+00:00"
+  },
+  {
+    "notification_id": "ntf_8cb4ad59f93d",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:05.168324+00:00"
+  },
+  {
+    "notification_id": "ntf_8996a8b0f590",
+    "user_id": "adm_a70b4a54b396",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:04.974298+00:00"
+  },
+  {
+    "notification_id": "ntf_bd9b4bfe00f7",
+    "user_id": "adm_4327e5faf082",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:04.780999+00:00"
+  },
+  {
+    "notification_id": "ntf_2a46072e762f",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:04.587039+00:00"
+  },
+  {
+    "notification_id": "ntf_bf5b2f0169f4",
+    "user_id": "adm_5410144954eb",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:04.455222+00:00"
+  },
+  {
+    "notification_id": "ntf_99aa511917b8",
+    "user_id": "adm_27ed7a932e49",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:04.323945+00:00"
+  },
+  {
+    "notification_id": "ntf_696eef26e499",
+    "user_id": "adm_84407a7a3171",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:04.192388+00:00"
+  },
+  {
+    "notification_id": "ntf_295e191e3de6",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:04.060511+00:00"
+  },
+  {
+    "notification_id": "ntf_20bcab74ab6a",
+    "user_id": "adm_be1db464be52",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:03.928987+00:00"
+  },
+  {
+    "notification_id": "ntf_341c9aea7deb",
+    "user_id": "adm_37734e4cae44",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:03.797759+00:00"
+  },
+  {
+    "notification_id": "ntf_8825e3c3550d",
+    "user_id": "adm_cf89b8d76782",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:03.666732+00:00"
+  },
+  {
+    "notification_id": "ntf_b46ce4194978",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:03.535975+00:00"
+  },
+  {
+    "notification_id": "ntf_a2354cb26ea9",
+    "user_id": "adm_e330426528dd",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:03.405189+00:00"
+  },
+  {
+    "notification_id": "ntf_3214235415f1",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "claim_update",
+    "title": "New claim filed",
+    "body": "Sankhadip Santra claimed: Bottole.",
+    "link": "/admin/claims/clm_b6fc2711ae79",
+    "read": false,
+    "created_at": "2026-05-17T13:57:03.274003+00:00"
+  },
+  {
+    "notification_id": "ntf_ea4c805d2aaa",
+    "user_id": "adm_b4b822e5d71a",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:35.608410+00:00"
+  },
+  {
+    "notification_id": "ntf_b3a3cd424287",
+    "user_id": "adm_a70b4a54b396",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:35.469872+00:00"
+  },
+  {
+    "notification_id": "ntf_84aac400ad04",
+    "user_id": "adm_4327e5faf082",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:35.334164+00:00"
+  },
+  {
+    "notification_id": "ntf_9537178f5903",
+    "user_id": "adm_d99c8ec73ca7",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:35.168482+00:00"
+  },
+  {
+    "notification_id": "ntf_93f7f784956a",
+    "user_id": "adm_5410144954eb",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:34.946448+00:00"
+  },
+  {
+    "notification_id": "ntf_2376746946ec",
+    "user_id": "adm_27ed7a932e49",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:34.768131+00:00"
+  },
+  {
+    "notification_id": "ntf_edd565703d3f",
+    "user_id": "adm_84407a7a3171",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:34.601836+00:00"
+  },
+  {
+    "notification_id": "ntf_ed55bb109c0b",
+    "user_id": "adm_cdb79fd7d431",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:34.462503+00:00"
+  },
+  {
+    "notification_id": "ntf_dcd91e2b2db1",
+    "user_id": "adm_be1db464be52",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:34.249922+00:00"
+  },
+  {
+    "notification_id": "ntf_b81629c29aa9",
+    "user_id": "adm_37734e4cae44",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:34.043327+00:00"
+  },
+  {
+    "notification_id": "ntf_71867cc38d4c",
+    "user_id": "adm_cf89b8d76782",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:33.896170+00:00"
+  },
+  {
+    "notification_id": "ntf_75062eab6ea0",
+    "user_id": "adm_7dbe97f35e22",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:33.498733+00:00"
+  },
+  {
+    "notification_id": "ntf_7c47c2e94708",
+    "user_id": "adm_e330426528dd",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:33.331259+00:00"
+  },
+  {
+    "notification_id": "ntf_6856f0385e30",
+    "user_id": "adm_1e1ca21eb374",
+    "type": "lost_alert",
+    "title": "New lost item alert",
+    "body": "Sankhadip Santra reported a lost Other: Lab Copy.",
+    "link": "/admin/lost/lst_e220a73c18ca",
+    "read": false,
+    "created_at": "2026-05-17T13:41:33.180500+00:00"
+  }
+]
